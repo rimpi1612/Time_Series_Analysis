@@ -24,7 +24,7 @@ Use the following  code to complete this assignment.
 
 [Linear Regression Starter Notebook](Notebook/regression_analysis.ipynb)
 
-[Yen Data CSV File](Notebook/yen.csv)
+[Yen Data CSV File](Data/yen.csv)
 
 - - -
 
